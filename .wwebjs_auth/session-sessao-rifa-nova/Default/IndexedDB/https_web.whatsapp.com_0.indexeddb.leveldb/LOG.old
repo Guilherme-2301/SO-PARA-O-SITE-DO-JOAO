@@ -1,0 +1,65 @@
+2026/05/23-21:26:01.110 3a94 Reusing MANIFEST C:\Users\guida\Downloads\ALGO NOVO\.wwebjs_auth\session-sessao-rifa-nova\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-007364
+2026/05/23-21:26:01.111 3a94 Recovering log #9109
+2026/05/23-21:26:01.121 3a94 Reusing old log C:\Users\guida\Downloads\ALGO NOVO\.wwebjs_auth\session-sessao-rifa-nova\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/009109.log 
+2026/05/23-21:26:20.873 2ed0 Compacting 1@2 + 7@3 files
+2026/05/23-21:26:20.890 2ed0 Generated table #9170@2: 1023 keys, 2135593 bytes
+2026/05/23-21:26:20.910 2ed0 Generated table #9171@2: 1390 keys, 2138574 bytes
+2026/05/23-21:26:20.928 2ed0 Generated table #9172@2: 1626 keys, 2139068 bytes
+2026/05/23-21:26:20.948 2ed0 Generated table #9173@2: 1700 keys, 2158216 bytes
+2026/05/23-21:26:20.965 2ed0 Generated table #9174@2: 1908 keys, 2147008 bytes
+2026/05/23-21:26:20.985 2ed0 Generated table #9175@2: 1751 keys, 2147617 bytes
+2026/05/23-21:26:21.006 2ed0 Generated table #9176@2: 1185 keys, 2132123 bytes
+2026/05/23-21:26:21.009 2ed0 Generated table #9177@2: 28 keys, 51763 bytes
+2026/05/23-21:26:21.009 2ed0 Compacted 1@2 + 7@3 files => 15049962 bytes
+2026/05/23-21:26:21.010 2ed0 compacted to: files[ 0 0 60 41 0 0 0 ]
+2026/05/23-21:26:21.011 2ed0 Delete type=2 #6894
+2026/05/23-21:26:21.011 2ed0 Delete type=2 #8848
+2026/05/23-21:26:21.011 2ed0 Delete type=2 #8849
+2026/05/23-21:26:21.011 2ed0 Delete type=2 #8850
+2026/05/23-21:26:21.011 2ed0 Delete type=2 #8851
+2026/05/23-21:26:21.011 2ed0 Delete type=2 #8852
+2026/05/23-21:26:21.011 2ed0 Delete type=2 #8853
+2026/05/23-21:26:21.011 2ed0 Delete type=2 #9118
+2026/05/23-21:27:12.968 32f8 Level-0 table #9179: started
+2026/05/23-21:27:12.995 32f8 Level-0 table #9179: 1489609 bytes OK
+2026/05/23-21:27:12.996 32f8 Delete type=0 #9109
+2026/05/23-21:27:13.735 2ed0 Compacting 1@0 + 0@1 files
+2026/05/23-21:27:13.750 2ed0 Generated table #9180@0: 14993 keys, 393027 bytes
+2026/05/23-21:27:13.754 2ed0 Generated table #9181@0: 485 keys, 69074 bytes
+2026/05/23-21:27:13.757 2ed0 Generated table #9182@0: 204 keys, 78353 bytes
+2026/05/23-21:27:13.760 2ed0 Generated table #9183@0: 744 keys, 20848 bytes
+2026/05/23-21:27:13.762 2ed0 Generated table #9184@0: 348 keys, 27429 bytes
+2026/05/23-21:27:13.763 2ed0 Compacted 1@0 + 0@1 files => 588731 bytes
+2026/05/23-21:27:13.763 2ed0 compacted to: files[ 0 5 60 41 0 0 0 ]
+2026/05/23-21:27:13.764 2ed0 Delete type=2 #9179
+2026/05/23-21:27:29.599 2ed0 Compacting 1@1 + 2@2 files
+2026/05/23-21:27:29.612 2ed0 Generated table #9185@1: 14943 keys, 308527 bytes
+2026/05/23-21:27:29.615 2ed0 Generated table #9186@1: 11 keys, 26296 bytes
+2026/05/23-21:27:29.633 2ed0 Generated table #9187@1: 1270 keys, 2138643 bytes
+2026/05/23-21:27:29.649 2ed0 Generated table #9188@1: 1155 keys, 2138278 bytes
+2026/05/23-21:27:29.652 2ed0 Generated table #9189@1: 24 keys, 59000 bytes
+2026/05/23-21:27:29.652 2ed0 Compacted 1@1 + 2@2 files => 4670744 bytes
+2026/05/23-21:27:29.653 2ed0 compacted to: files[ 0 4 63 41 0 0 0 ]
+2026/05/23-21:27:29.653 2ed0 Delete type=2 #9119
+2026/05/23-21:27:29.653 2ed0 Delete type=2 #9120
+2026/05/23-21:27:29.654 2ed0 Delete type=2 #9180
+2026/05/23-21:28:05.438 318c Compacting 1@2 + 8@3 files
+2026/05/23-21:28:05.483 318c Generated table #9190@2: 38965 keys, 2176085 bytes
+2026/05/23-21:28:05.538 318c Generated table #9191@2: 112710 keys, 2266040 bytes
+2026/05/23-21:28:05.591 318c Generated table #9192@2: 117849 keys, 2269940 bytes
+2026/05/23-21:28:05.641 318c Generated table #9193@2: 103095 keys, 2254186 bytes
+2026/05/23-21:28:05.689 318c Generated table #9194@2: 98100 keys, 2248803 bytes
+2026/05/23-21:28:05.740 318c Generated table #9195@2: 73051 keys, 2382391 bytes
+2026/05/23-21:28:05.785 318c Generated table #9196@2: 50413 keys, 2233207 bytes
+2026/05/23-21:28:05.823 318c Generated table #9197@2: 34192 keys, 1880911 bytes
+2026/05/23-21:28:05.823 318c Compacted 1@2 + 8@3 files => 17711563 bytes
+2026/05/23-21:28:05.824 318c compacted to: files[ 0 4 62 41 0 0 0 ]
+2026/05/23-21:28:05.824 318c Delete type=2 #9130
+2026/05/23-21:28:05.824 318c Delete type=2 #9131
+2026/05/23-21:28:05.824 318c Delete type=2 #9132
+2026/05/23-21:28:05.824 318c Delete type=2 #9133
+2026/05/23-21:28:05.824 318c Delete type=2 #9134
+2026/05/23-21:28:05.825 318c Delete type=2 #9135
+2026/05/23-21:28:05.825 318c Delete type=2 #9136
+2026/05/23-21:28:05.825 318c Delete type=2 #9137
+2026/05/23-21:28:05.825 318c Delete type=2 #9185

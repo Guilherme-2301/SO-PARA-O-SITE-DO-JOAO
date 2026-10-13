@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nome": "Miniatura Hot Wheels Premium",
+    "custo": 50
+  },
+  {
+    "id": 2,
+    "nome": "Frete Grátis na próxima compra",
+    "custo": 20
+  }
+]

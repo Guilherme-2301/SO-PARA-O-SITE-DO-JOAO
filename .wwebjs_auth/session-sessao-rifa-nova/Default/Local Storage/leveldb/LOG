@@ -1,0 +1,14 @@
+2026/05/23-21:28:17.715 6650 Reusing MANIFEST C:\Users\guida\Downloads\ALGO NOVO\.wwebjs_auth\session-sessao-rifa-nova\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/23-21:28:17.719 6650 Recovering log #37
+2026/05/23-21:28:17.719 6650 Level-0 table #39: started
+2026/05/23-21:28:17.724 6650 Level-0 table #39: 14862 bytes OK
+2026/05/23-21:28:17.729 6650 Delete type=0 #37
+2026/05/23-21:28:17.730 3cd8 Compacting 4@0 + 1@1 files
+2026/05/23-21:28:17.735 3cd8 Generated table #41@0: 107 keys, 7032 bytes
+2026/05/23-21:28:17.735 3cd8 Compacted 4@0 + 1@1 files => 7032 bytes
+2026/05/23-21:28:17.736 3cd8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/23-21:28:17.737 3cd8 Delete type=2 #29
+2026/05/23-21:28:17.737 3cd8 Delete type=2 #32
+2026/05/23-21:28:17.737 3cd8 Delete type=2 #34
+2026/05/23-21:28:17.737 3cd8 Delete type=2 #36
+2026/05/23-21:28:17.737 3cd8 Delete type=2 #39

@@ -1,0 +1,38 @@
+2026/05/24-10:07:04.421 552c Reusing MANIFEST C:\Users\guida\Downloads\ALGO NOVO\.wwebjs_auth\session-sessao-pontos-floripa\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/24-10:07:04.433 552c Recovering log #6
+2026/05/24-10:07:04.435 552c Reusing old log C:\Users\guida\Downloads\ALGO NOVO\.wwebjs_auth\session-sessao-pontos-floripa\Default\Local Storage\leveldb/000006.log 
+2026/05/24-10:47:15.078 2458 Level-0 table #10: started
+2026/05/24-10:47:15.083 2458 Level-0 table #10: 14347 bytes OK
+2026/05/24-10:47:15.086 2458 Delete type=0 #6
+2026/05/24-11:55:10.586 2458 Level-0 table #12: started
+2026/05/24-11:55:10.590 2458 Level-0 table #12: 14020 bytes OK
+2026/05/24-11:55:10.592 2458 Delete type=0 #9
+2026/05/24-11:55:10.593 2458 Compacting 4@0 + 0@1 files
+2026/05/24-11:55:10.597 2458 Generated table #13@0: 86 keys, 8519 bytes
+2026/05/24-11:55:10.597 2458 Compacted 4@0 + 0@1 files => 8519 bytes
+2026/05/24-11:55:10.598 2458 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/24-11:55:10.598 2458 Delete type=2 #3
+2026/05/24-11:55:10.598 2458 Delete type=2 #7
+2026/05/24-11:55:10.599 2458 Delete type=2 #10
+2026/05/24-11:55:10.599 2458 Delete type=2 #12
+2026/05/24-12:55:03.582 2458 Level-0 table #15: started
+2026/05/24-12:55:03.587 2458 Level-0 table #15: 13848 bytes OK
+2026/05/24-12:55:03.588 2458 Delete type=0 #11
+2026/05/24-14:07:21.388 2458 Level-0 table #17: started
+2026/05/24-14:07:21.393 2458 Level-0 table #17: 13871 bytes OK
+2026/05/24-14:07:21.395 2458 Delete type=0 #14
+2026/05/24-15:27:24.268 2458 Level-0 table #19: started
+2026/05/24-15:27:24.273 2458 Level-0 table #19: 13899 bytes OK
+2026/05/24-15:27:24.274 2458 Delete type=0 #16
+2026/05/24-16:57:27.029 2458 Level-0 table #21: started
+2026/05/24-16:57:27.034 2458 Level-0 table #21: 13936 bytes OK
+2026/05/24-16:57:27.035 2458 Delete type=0 #18
+2026/05/24-16:57:27.035 2458 Compacting 4@0 + 1@1 files
+2026/05/24-16:57:27.040 2458 Generated table #22@0: 86 keys, 8520 bytes
+2026/05/24-16:57:27.040 2458 Compacted 4@0 + 1@1 files => 8520 bytes
+2026/05/24-16:57:27.040 2458 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/24-16:57:27.041 2458 Delete type=2 #13
+2026/05/24-16:57:27.041 2458 Delete type=2 #15
+2026/05/24-16:57:27.041 2458 Delete type=2 #17
+2026/05/24-16:57:27.041 2458 Delete type=2 #19
+2026/05/24-16:57:27.041 2458 Delete type=2 #21
